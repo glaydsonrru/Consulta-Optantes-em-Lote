@@ -1,0 +1,6 @@
+{
+  "name": "Consulta Optantes em Lote",
+  "description": "Consulta em lote de optantes pelo Simples Nacional e SIMEI com situação cadastral, CNAE principal e exportação para Excel (CSV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
